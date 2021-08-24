@@ -1,1 +1,1 @@
-# blue-exercicios-1.py
+# Aulas iniciais da BlueEdtech no Google Colaboratory.
